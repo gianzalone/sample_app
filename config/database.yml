@@ -17,7 +17,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: prova_development
+  database: prova_test
   pool: 5
   username: postgres
   password: albertina
