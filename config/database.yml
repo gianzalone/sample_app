@@ -54,7 +54,8 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: prova_production
+  database: neorap
   pool: 5
   username: postgres
   password: albertina
+  host: HEROKU_POSTGRESQL_AQUA_URL
